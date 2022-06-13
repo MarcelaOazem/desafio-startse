@@ -1,1 +1,1 @@
-# Desafio utilizando propriedades CSS.
+# Desafio utilizando propriedades CSS e responsividade.
